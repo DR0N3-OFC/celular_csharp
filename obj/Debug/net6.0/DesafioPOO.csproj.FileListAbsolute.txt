@@ -1,0 +1,15 @@
+D:\Programação\DIO\Pottencial .NET Developer\celular_csharp\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+D:\Programação\DIO\Pottencial .NET Developer\celular_csharp\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\DIO\Pottencial .NET Developer\celular_csharp\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+D:\Programação\DIO\Pottencial .NET Developer\celular_csharp\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+D:\Programação\DIO\Pottencial .NET Developer\celular_csharp\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+D:\Programação\DIO\Pottencial .NET Developer\celular_csharp\bin\Debug\net6.0\DesafioPOO.exe
+D:\Programação\DIO\Pottencial .NET Developer\celular_csharp\bin\Debug\net6.0\DesafioPOO.deps.json
+D:\Programação\DIO\Pottencial .NET Developer\celular_csharp\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+D:\Programação\DIO\Pottencial .NET Developer\celular_csharp\bin\Debug\net6.0\DesafioPOO.dll
+D:\Programação\DIO\Pottencial .NET Developer\celular_csharp\bin\Debug\net6.0\DesafioPOO.pdb
+D:\Programação\DIO\Pottencial .NET Developer\celular_csharp\obj\Debug\net6.0\DesafioPOO.dll
+D:\Programação\DIO\Pottencial .NET Developer\celular_csharp\obj\Debug\net6.0\refint\DesafioPOO.dll
+D:\Programação\DIO\Pottencial .NET Developer\celular_csharp\obj\Debug\net6.0\DesafioPOO.pdb
+D:\Programação\DIO\Pottencial .NET Developer\celular_csharp\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+D:\Programação\DIO\Pottencial .NET Developer\celular_csharp\obj\Debug\net6.0\ref\DesafioPOO.dll
